@@ -1,0 +1,3 @@
+{"username": "pa4kata", "password": "P^t0n0m1", "first_name": "Plamen", "last_name": "Stanchev", "products": [2,2,2,2], "is_admin": true}
+{"username": "kra4kata", "password": "zayobayosexmaniac", "first_name": "Pavel", "last_name": "Kunchev", "products": []}
+{"username": "sta4kata", "password": "kum4ovalchonarkokral", "first_name": "Petjo", "last_name": "Trenchev", "products": []}
